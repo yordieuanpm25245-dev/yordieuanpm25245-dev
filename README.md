@@ -1,16 +1,11 @@
-## Hi there 👋
+# ¡Hola! Soy Yordi 👋
+### Sobre mi 👽
+- 🏫 Actualmente estoy esudiando en Colegio de Estudios Cientificos y Tecnologicos del Estado de Campeche plantel Pomuch en la especialidad de programacion
+- 📘 Estoy aprendiendo a programar en el lenguaje python y a utilizar la terminal en Linnux Mint
 
-<!--
-**yordieuanpm25245-dev/yordieuanpm25245-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔨🎒 Herramientas en mi mochila
+- **sistemas** Linux Mint
+- **Control de versiones:** Git y Github
+- **Aprendiendo ahora:** logica de programacion
+---
+*"Mi trabajo en una sola linea: Deprimente"*
